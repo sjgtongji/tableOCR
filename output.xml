@@ -1,0 +1,1105 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml>
+<page number="1" position="absolute" top="0" left="0" height="1265" width="1787">
+	<fontspec id="0" size="11" family="Times" color="#393939"/>
+	<fontspec id="1" size="11" family="Times" color="#393939"/>
+	<fontspec id="2" size="11" family="Times" color="#111111"/>
+	<fontspec id="3" size="11" family="Times" color="#262626"/>
+	<fontspec id="4" size="21" family="Times" color="#111111"/>
+	<fontspec id="5" size="21" family="Times" color="#262626"/>
+	<fontspec id="6" size="11" family="Times" color="#6c6c6c"/>
+	<fontspec id="7" size="11" family="Times" color="#000000"/>
+	<fontspec id="8" size="11" family="Times" color="#393939"/>
+	<fontspec id="9" size="11" family="Times" color="#393939"/>
+	<fontspec id="10" size="11" family="Times" color="#393939"/>
+	<fontspec id="11" size="11" family="Times" color="#393939"/>
+	<fontspec id="12" size="11" family="Times" color="#393939"/>
+	<fontspec id="13" size="11" family="Times" color="#393939"/>
+	<fontspec id="14" size="11" family="Times" color="#393939"/>
+	<fontspec id="15" size="11" family="Times" color="#393939"/>
+	<fontspec id="16" size="11" family="Times" color="#393939"/>
+	<fontspec id="17" size="11" family="Times" color="#393939"/>
+	<fontspec id="18" size="11" family="Times" color="#393939"/>
+	<fontspec id="19" size="11" family="Times" color="#393939"/>
+	<fontspec id="20" size="11" family="Times" color="#393939"/>
+	<fontspec id="21" size="11" family="Times" color="#393939"/>
+	<fontspec id="22" size="11" family="Times" color="#393939"/>
+	<fontspec id="23" size="11" family="Times" color="#393939"/>
+	<fontspec id="24" size="11" family="Times" color="#393939"/>
+	<fontspec id="25" size="11" family="Times" color="#393939"/>
+	<fontspec id="26" size="11" family="Times" color="#393939"/>
+	<fontspec id="27" size="11" family="Times" color="#393939"/>
+	<fontspec id="28" size="11" family="Times" color="#393939"/>
+	<fontspec id="29" size="11" family="Times" color="#393939"/>
+	<fontspec id="30" size="11" family="Times" color="#393939"/>
+	<fontspec id="31" size="11" family="Times" color="#393939"/>
+	<fontspec id="32" size="11" family="Times" color="#393939"/>
+	<fontspec id="33" size="11" family="Times" color="#393939"/>
+	<fontspec id="34" size="11" family="Times" color="#393939"/>
+	<fontspec id="35" size="11" family="Times" color="#393939"/>
+	<fontspec id="36" size="11" family="Times" color="#393939"/>
+	<fontspec id="37" size="11" family="Times" color="#393939"/>
+	<fontspec id="38" size="11" family="Times" color="#393939"/>
+	<fontspec id="39" size="11" family="Times" color="#393939"/>
+	<fontspec id="40" size="11" family="Times" color="#393939"/>
+	<fontspec id="41" size="11" family="Times" color="#393939"/>
+	<fontspec id="42" size="11" family="Times" color="#393939"/>
+	<fontspec id="43" size="11" family="Times" color="#393939"/>
+	<fontspec id="44" size="11" family="Times" color="#393939"/>
+	<fontspec id="45" size="11" family="Times" color="#393939"/>
+	<fontspec id="46" size="11" family="Times" color="#393939"/>
+	<fontspec id="47" size="11" family="Times" color="#393939"/>
+	<fontspec id="48" size="11" family="Times" color="#393939"/>
+	<fontspec id="49" size="11" family="Times" color="#393939"/>
+	<fontspec id="50" size="11" family="Times" color="#393939"/>
+	<fontspec id="51" size="11" family="Times" color="#393939"/>
+	<fontspec id="52" size="11" family="Times" color="#393939"/>
+	<fontspec id="53" size="11" family="Times" color="#393939"/>
+	<fontspec id="54" size="11" family="Times" color="#393939"/>
+	<fontspec id="55" size="11" family="Times" color="#393939"/>
+	<fontspec id="56" size="11" family="Times" color="#393939"/>
+	<fontspec id="57" size="11" family="Times" color="#393939"/>
+	<fontspec id="58" size="11" family="Times" color="#393939"/>
+	<fontspec id="59" size="11" family="Times" color="#393939"/>
+	<fontspec id="60" size="11" family="Times" color="#393939"/>
+	<fontspec id="61" size="11" family="Times" color="#393939"/>
+	<fontspec id="62" size="11" family="Times" color="#393939"/>
+	<fontspec id="63" size="11" family="Times" color="#393939"/>
+	<fontspec id="64" size="11" family="Times" color="#393939"/>
+	<fontspec id="65" size="11" family="Times" color="#393939"/>
+	<fontspec id="66" size="11" family="Times" color="#393939"/>
+	<fontspec id="67" size="11" family="Times" color="#393939"/>
+	<fontspec id="68" size="11" family="Times" color="#393939"/>
+	<fontspec id="69" size="11" family="Times" color="#393939"/>
+	<fontspec id="70" size="11" family="Times" color="#393939"/>
+	<fontspec id="71" size="11" family="Times" color="#393939"/>
+	<fontspec id="72" size="11" family="Times" color="#393939"/>
+	<fontspec id="73" size="11" family="Times" color="#393939"/>
+	<fontspec id="74" size="11" family="Times" color="#393939"/>
+	<fontspec id="75" size="11" family="Times" color="#393939"/>
+	<fontspec id="76" size="11" family="Times" color="#111111"/>
+	<fontspec id="77" size="11" family="Times" color="#393939"/>
+	<fontspec id="78" size="11" family="Times" color="#393939"/>
+	<fontspec id="79" size="11" family="Times" color="#393939"/>
+	<fontspec id="80" size="11" family="Times" color="#393939"/>
+	<fontspec id="81" size="11" family="Times" color="#393939"/>
+	<fontspec id="82" size="11" family="Times" color="#393939"/>
+	<fontspec id="83" size="11" family="Times" color="#393939"/>
+	<fontspec id="84" size="11" family="Times" color="#393939"/>
+	<fontspec id="85" size="11" family="Times" color="#6c6c6c"/>
+	<fontspec id="86" size="11" family="Times" color="#393939"/>
+	<fontspec id="87" size="11" family="Times" color="#393939"/>
+	<fontspec id="88" size="11" family="Times" color="#393939"/>
+	<fontspec id="89" size="11" family="Times" color="#393939"/>
+	<fontspec id="90" size="11" family="Times" color="#393939"/>
+	<fontspec id="91" size="11" family="Times" color="#393939"/>
+	<fontspec id="92" size="11" family="Times" color="#393939"/>
+	<fontspec id="93" size="11" family="Times" color="#393939"/>
+	<fontspec id="94" size="11" family="Times" color="#393939"/>
+	<fontspec id="95" size="11" family="Times" color="#393939"/>
+	<fontspec id="96" size="11" family="Times" color="#393939"/>
+	<fontspec id="97" size="11" family="Times" color="#393939"/>
+	<fontspec id="98" size="11" family="Times" color="#393939"/>
+	<fontspec id="99" size="11" family="Times" color="#393939"/>
+	<fontspec id="100" size="11" family="Times" color="#393939"/>
+	<fontspec id="101" size="11" family="Times" color="#393939"/>
+	<fontspec id="102" size="11" family="Times" color="#393939"/>
+	<fontspec id="103" size="11" family="Times" color="#393939"/>
+	<fontspec id="104" size="11" family="Times" color="#393939"/>
+	<fontspec id="105" size="11" family="Times" color="#393939"/>
+	<fontspec id="106" size="11" family="Times" color="#393939"/>
+	<fontspec id="107" size="11" family="Times" color="#393939"/>
+	<fontspec id="108" size="11" family="Times" color="#393939"/>
+	<fontspec id="109" size="11" family="Times" color="#393939"/>
+	<fontspec id="110" size="11" family="Times" color="#393939"/>
+	<fontspec id="111" size="11" family="Times" color="#393939"/>
+	<fontspec id="112" size="11" family="Times" color="#393939"/>
+	<fontspec id="113" size="11" family="Times" color="#393939"/>
+	<fontspec id="114" size="11" family="Times" color="#111111"/>
+	<fontspec id="115" size="11" family="Times" color="#393939"/>
+	<fontspec id="116" size="11" family="Times" color="#393939"/>
+	<fontspec id="117" size="11" family="Times" color="#393939"/>
+	<fontspec id="118" size="11" family="Times" color="#393939"/>
+	<fontspec id="119" size="11" family="Times" color="#393939"/>
+	<fontspec id="120" size="11" family="Times" color="#393939"/>
+	<fontspec id="121" size="11" family="Times" color="#393939"/>
+	<fontspec id="122" size="11" family="Times" color="#393939"/>
+	<fontspec id="123" size="11" family="Times" color="#393939"/>
+	<fontspec id="124" size="11" family="Times" color="#393939"/>
+	<fontspec id="125" size="11" family="Times" color="#393939"/>
+	<fontspec id="126" size="11" family="Times" color="#393939"/>
+	<fontspec id="127" size="11" family="Times" color="#393939"/>
+	<fontspec id="128" size="11" family="Times" color="#393939"/>
+	<fontspec id="129" size="11" family="Times" color="#393939"/>
+	<fontspec id="130" size="11" family="Times" color="#393939"/>
+	<fontspec id="131" size="11" family="Times" color="#393939"/>
+	<fontspec id="132" size="11" family="Times" color="#393939"/>
+	<fontspec id="133" size="11" family="Times" color="#393939"/>
+	<fontspec id="134" size="11" family="Times" color="#111111"/>
+	<fontspec id="135" size="11" family="Times" color="#393939"/>
+	<fontspec id="136" size="11" family="Times" color="#393939"/>
+	<fontspec id="137" size="11" family="Times" color="#6c6c6c"/>
+	<fontspec id="138" size="11" family="Times" color="#393939"/>
+	<fontspec id="139" size="11" family="Times" color="#393939"/>
+	<fontspec id="140" size="11" family="Times" color="#393939"/>
+	<fontspec id="141" size="11" family="Times" color="#393939"/>
+	<fontspec id="142" size="11" family="Times" color="#393939"/>
+	<fontspec id="143" size="11" family="Times" color="#000000"/>
+	<fontspec id="144" size="11" family="Times" color="#393939"/>
+	<fontspec id="145" size="11" family="Times" color="#000000"/>
+	<fontspec id="146" size="11" family="Times" color="#393939"/>
+	<fontspec id="147" size="11" family="Times" color="#000000"/>
+	<fontspec id="148" size="11" family="Times" color="#393939"/>
+	<fontspec id="149" size="11" family="Times" color="#393939"/>
+	<fontspec id="150" size="11" family="Times" color="#111111"/>
+	<fontspec id="151" size="11" family="Times" color="#393939"/>
+<text top="66" left="187" width="199" height="12" font="0">Kreis/Organisationsform/</text>
+<text top="80" left="186" width="167" height="12" font="9">Anschrift der Schule</text>
+<text top="124" left="187" width="282" height="12" font="12">Grundschule &quot;Martin Andersen Nexö&quot;</text>
+<text top="138" left="186" width="151" height="12" font="14">Warschauer Str. 16</text>
+<text top="153" left="188" width="133" height="12" font="15">17493 Greifswald</text>
+<text top="196" left="187" width="174" height="12" font="0">Karl-Marx-Grundschule</text>
+<text top="211" left="187" width="116" height="12" font="17">Rigaer Str. 30</text>
+<text top="225" left="187" width="133" height="12" font="18">17493 Greifswald</text>
+<text top="269" left="186" width="233" height="12" font="20">Grundschule Friedrich Engels</text>
+<text top="283" left="186" width="89" height="12" font="16">Rigaer Str.</text>
+<text top="283" left="287" width="15" height="12" font="0">29</text>
+<text top="297" left="187" width="133" height="12" font="21">17493 Greifswald</text>
+<text top="341" left="186" width="282" height="12" font="0">Caspar-David-Friedrich-Grundschule</text>
+<text top="355" left="185" width="116" height="12" font="23">Usedomer Weg 1</text>
+<text top="370" left="186" width="133" height="12" font="24">17493 Greifswald</text>
+<text top="413" left="185" width="200" height="12" font="26">Grundschule Grete Walter</text>
+<text top="428" left="185" width="64" height="12" font="0">Hainstr.</text>
+<text top="428" left="261" width="15" height="12" font="0">16</text>
+<text top="443" left="186" width="132" height="12" font="27">17493 Greifswald</text>
+<text top="501" left="184" width="242" height="12" font="30">Realschule mit Hauptschul tei1</text>
+<text top="545" left="185" width="207" height="12" font="32">Realschule Käthe Kollwitz</text>
+<text top="560" left="185" width="72" height="12" font="0">Knopfstr.</text>
+<text top="560" left="268" width="40" height="12" font="0">25/26</text>
+<text top="574" left="185" width="132" height="12" font="33">17489 Greifswald</text>
+<text top="618" left="184" width="241" height="12" font="36">Realschule Ernst Moritz Arndt</text>
+<text top="632" left="183" width="73" height="12" font="0">Arndtstr.</text>
+<text top="632" left="268" width="15" height="12" font="0">37</text>
+<text top="647" left="185" width="133" height="12" font="37">17489 Greifswald</text>
+<text top="690" left="184" width="174" height="12" font="39">Realschule Karl Krull</text>
+<text top="705" left="184" width="108" height="12" font="40">Bleichstr. 36</text>
+<text top="719" left="185" width="132" height="12" font="27">17489 Greifswald</text>
+<text top="763" left="183" width="199" height="12" font="0">Erwin-Fischer-Realschule</text>
+<text top="778" left="184" width="63" height="12" font="0">Feldstr.</text>
+<text top="778" left="259" width="15" height="12" font="0">86</text>
+<text top="792" left="184" width="132" height="12" font="33">17489 Greifswald</text>
+<text top="835" left="184" width="191" height="12" font="0">Fritz-Reuter-Realschule</text>
+<text top="850" left="183" width="133" height="12" font="41">Max-Hagen-Weg 13</text>
+<text top="864" left="184" width="132" height="12" font="33">17491 Greifswald</text>
+<text top="908" left="184" width="115" height="12" font="42">11. Realschule</text>
+<text top="922" left="183" width="141" height="12" font="43">Max-Planck-Str. 7</text>
+<text top="936" left="184" width="133" height="12" font="44">17491 Greifswald</text>
+<text top="980" left="184" width="115" height="12" font="45">13. Realschule</text>
+<text top="994" left="182" width="123" height="12" font="0">Max-Planck-Str.</text>
+<text top="994" left="317" width="7" height="12" font="0">9</text>
+<text top="1009" left="183" width="133" height="12" font="44">17491 Greifswald</text>
+<text top="1052" left="183" width="199" height="12" font="0">Erich-Weinert-Realschule</text>
+<text top="1066" left="182" width="133" height="12" font="46">Makarenkostr. 53</text>
+<text top="1080" left="183" width="133" height="12" font="44">17491 Greifswald</text>
+<text top="1124" left="183" width="191" height="12" font="48">Realschule Pablo Neruda</text>
+<text top="1138" left="183" width="182" height="12" font="49">Ernst-Thälmann-Ring 15</text>
+<text top="1152" left="183" width="133" height="12" font="50">17491 Greifswald</text>
+<text top="66" left="496" width="173" height="12" font="52">Name des Schulleiters</text>
+<text top="80" left="496" width="221" height="12" font="0">Ortsnetzkennzahl/Telefonnr.</text>
+<text top="138" left="505" width="99" height="12" font="53">Frau Lehmann</text>
+<text top="152" left="505" width="54" height="12" font="54">03834 -</text>
+<text top="152" left="571" width="48" height="12" font="0">840189</text>
+<text top="211" left="504" width="105" height="12" font="55">Frau Matthews</text>
+<text top="225" left="504" width="54" height="12" font="54">03834 -</text>
+<text top="225" left="570" width="48" height="12" font="0">840801</text>
+<text top="283" left="504" width="82" height="12" font="56">Frau Dedow</text>
+<text top="297" left="504" width="53" height="12" font="57">03834 -</text>
+<text top="297" left="570" width="47" height="12" font="0">840698</text>
+<text top="356" left="503" width="106" height="12" font="58">Frau Reinhold</text>
+<text top="370" left="503" width="54" height="12" font="59">03834 -</text>
+<text top="370" left="569" width="47" height="12" font="0">811150</text>
+<text top="428" left="502" width="90" height="12" font="60">Frau Preuße</text>
+<text top="442" left="502" width="54" height="12" font="61">03834 </span><span class="ft2">-</text>
+<text top="442" left="569" width="47" height="12" font="0">840075</text>
+<text top="560" left="501" width="82" height="12" font="62">Herr Grewe</text>
+<text top="574" left="502" width="97" height="12" font="63">03834 - 3255</text>
+<text top="632" left="501" width="90" height="12" font="64">Frau Leddin</text>
+<text top="646" left="501" width="54" height="12" font="61">03834 -</text>
+<text top="646" left="567" width="47" height="12" font="0">500062</text>
+<text top="704" left="500" width="82" height="12" font="65">Herr Feske</text>
+<text top="719" left="501" width="54" height="12" font="61">03834 -</text>
+<text top="719" left="568" width="39" height="12" font="0">68423</text>
+<text top="777" left="500" width="80" height="12" font="66">Frau Kagel</text>
+<text top="792" left="500" width="113" height="12" font="68">03834 - 500775</text>
+<text top="850" left="500" width="113" height="12" font="69">Frau Borowicki</text>
+<text top="864" left="500" width="54" height="12" font="67">03834 -</text>
+<text top="864" left="566" width="47" height="12" font="0">814053</text>
+<text top="922" left="500" width="98" height="12" font="70">Frau Schmidt</text>
+<text top="936" left="500" width="53" height="12" font="71">03834 -</text>
+<text top="936" left="566" width="47" height="12" font="0">812071</text>
+<text top="994" left="499" width="123" height="12" font="73">Herr Dr. Hübner</text>
+<text top="1008" left="500" width="54" height="12" font="67">03834 -</text>
+<text top="1008" left="566" width="47" height="12" font="0">812063</text>
+<text top="1066" left="500" width="98" height="12" font="74">Frau Hetming</text>
+<text top="1080" left="500" width="54" height="12" font="67">03834 -</text>
+<text top="1080" left="566" width="47" height="12" font="0">812022</text>
+<text top="1138" left="499" width="98" height="12" font="75">Frau Hartung</text>
+<text top="1152" left="500" width="53" height="12" font="71">03834 -</text>
+<text top="1152" left="566" width="47" height="12" font="0">812021</text>
+<text top="1199" left="500" width="46" height="12" font="77">- </span><span class="ft0">12 </span><span class="ft2">-</text>
+<text top="66" left="745" width="40" height="12" font="0">Schü-</text>
+<text top="66" left="803" width="30" height="12" font="0">dar:</text>
+<text top="80" left="745" width="24" height="12" font="0">ler</text>
+<text top="80" left="802" width="47" height="12" font="0">weibl.</text>
+<text top="138" left="753" width="23" height="12" font="0">224</text>
+<text top="138" left="811" width="24" height="12" font="0">103</text>
+<text top="211" left="752" width="23" height="12" font="0">207</text>
+<text top="211" left="811" width="23" height="12" font="0">103</text>
+<text top="283" left="752" width="23" height="12" font="3">237</text>
+<text top="283" left="810" width="24" height="12" font="0">117</text>
+<text top="355" left="751" width="23" height="12" font="0">333</text>
+<text top="356" left="809" width="23" height="12" font="0">172</text>
+<text top="428" left="751" width="23" height="12" font="0">115</text>
+<text top="428" left="817" width="16" height="12" font="0">59</text>
+<text top="559" left="750" width="23" height="12" font="3">245</text>
+<text top="560" left="808" width="23" height="12" font="0">101</text>
+<text top="632" left="749" width="24" height="12" font="0">186</text>
+<text top="632" left="816" width="15" height="12" font="0">89</text>
+<text top="704" left="749" width="24" height="12" font="0">199</text>
+<text top="705" left="816" width="15" height="12" font="0">86</text>
+<text top="777" left="748" width="23" height="12" font="0">184</text>
+<text top="777" left="815" width="15" height="12" font="3">58</text>
+<text top="849" left="748" width="23" height="12" font="0">170</text>
+<text top="849" left="815" width="14" height="12" font="0">88</text>
+<text top="921" left="748" width="24" height="12" font="0">306</text>
+<text top="922" left="807" width="24" height="12" font="0">146</text>
+<text top="994" left="748" width="23" height="12" font="3">253</text>
+<text top="994" left="806" width="23" height="12" font="0">121</text>
+<text top="1066" left="748" width="23" height="12" font="3">312</text>
+<text top="1066" left="806" width="23" height="12" font="0">134</text>
+<text top="1137" left="747" width="24" height="12" font="0">289</text>
+<text top="1138" left="806" width="23" height="12" font="0">145</text>
+<text top="43" left="1020" width="680" height="21" font="4">----------------------------------------------------------------------------------</text>
+<text top="64" left="1020" width="199" height="12" font="0">Kreis/Organisationsform/</text>
+<text top="79" left="1019" width="167" height="12" font="79">Anschrift der Schule</text>
+<text top="61" left="1328" width="173" height="12" font="81">Name des Schulleiters</text>
+<text top="76" left="1328" width="221" height="12" font="0">Ortsnetzkennzahl/Telefonnr.</text>
+<text top="60" left="1576" width="40" height="12" font="0">Schü-</text>
+<text top="60" left="1635" width="30" height="12" font="0">dar:</text>
+<text top="74" left="1577" width="24" height="12" font="0">ler</text>
+<text top="74" left="1634" width="48" height="12" font="0">weibl.</text>
+<text top="86" left="1021" width="680" height="21" font="5">----------------------------------------------------------------------------------</text>
+<text top="122" left="1021" width="273" height="12" font="85">Realschule &quot;Martin Andersen</span><span class="ft6">. </span><span class="ft0">Nexö&quot;</text>
+<text top="137" left="1019" width="150" height="12" font="87">Warschauer Str. 16</text>
+<text top="152" left="1021" width="133" height="12" font="88">17493 Greifswald</text>
+<text top="195" left="1021" width="165" height="12" font="0">Karl-Marx-Realschule</text>
+<text top="210" left="1021" width="116" height="12" font="90">Rigaer Str. 30</text>
+<text top="224" left="1021" width="132" height="12" font="91">17493 Greifswald</text>
+<text top="267" left="1021" width="223" height="12" font="93">Realschule Friedrich Engels</text>
+<text top="282" left="1021" width="116" height="12" font="95">Rigaer Str. 29</text>
+<text top="297" left="1022" width="132" height="12" font="91">17493 Greifswald</text>
+<text top="340" left="1021" width="274" height="12" font="98">Realschule Caspar David Friedrich</text>
+<text top="355" left="1021" width="116" height="12" font="100">Usedomer Weg 1</text>
+<text top="369" left="1022" width="133" height="12" font="101">17493 Greifswald</text>
+<text top="413" left="1021" width="133" height="12" font="0">Hanse-Realschule</text>
+<text top="427" left="1021" width="165" height="12" font="102">Albert-Einstein-Str </span><span class="ft6">.</text>
+<text top="427" left="1198" width="7" height="12" font="0">6</text>
+<text top="442" left="1022" width="132" height="12" font="103">17491 Greifswald</text>
+<text top="486" left="1022" width="107" height="12" font="104">8. Realschule</text>
+<text top="500" left="1022" width="121" height="12" font="0">Karl-Krull-Str.</text>
+<text top="500" left="1156" width="15" height="12" font="0">19</text>
+<text top="515" left="1022" width="133" height="12" font="105">17491 Greifswald</text>
+<text top="574" left="1022" width="76" height="12" font="1">Gymnasium</text>
+<text top="617" left="1022" width="275" height="12" font="0">Johann-Gottfried-Herder-Gymnasium</text>
+<text top="632" left="1022" width="122" height="12" font="0">Max-Planck-Str.</text>
+<text top="632" left="1156" width="7" height="12" font="0">8</text>
+<text top="646" left="1023" width="132" height="12" font="91">17491 Greifswald</text>
+<text top="689" left="1022" width="267" height="12" font="0">Alexander-von-Humboldt-Gymnasium</text>
+<text top="704" left="1022" width="106" height="12" font="0">Makarenkostr.</text>
+<text top="704" left="1140" width="15" height="12" font="0">54</text>
+<text top="719" left="1023" width="132" height="12" font="106">17491 Greifswald</text>
+<text top="762" left="1023" width="258" height="12" font="109">Gymnasium Friedrich Ludwig Jahn</text>
+<text top="777" left="1023" width="182" height="12" font="110">Ernst-Thälmann-Platz 1</text>
+<text top="791" left="1024" width="132" height="12" font="91">17491 Greifswald</text>
+<text top="835" left="1024" width="257" height="12" font="112">Sonderschule für Lernbehinderte</text>
+<text top="879" left="1024" width="196" height="12" font="115">Pestalozzischule </span><span class="ft2">- </span><span class="ft0">LBS </span><span class="ft2">-</text>
+<text top="894" left="1023" width="115" height="12" font="116">Wolgaster Str.</text>
+<text top="894" left="1150" width="14" height="12" font="0">62</text>
+<text top="909" left="1025" width="132" height="12" font="91">17489 Greifswald</text>
+<text top="952" left="1025" width="282" height="12" font="118">Sonderschule für Geistigbehinderte</text>
+<text top="996" left="1025" width="216" height="12" font="0">Johanna-Odebrecht-Stiftung</text>
+<text top="1010" left="1025" width="232" height="12" font="120">Schule für Geistigbehinderte</text>
+<text top="1025" left="1025" width="141" height="12" font="122">Loissiner Wende 5</text>
+<text top="1039" left="1026" width="132" height="12" font="123">17491 Greifswald</text>
+<text top="1083" left="1025" width="118" height="12" font="1">Abendgymnasium</text>
+<text top="1126" left="1025" width="118" height="12" font="0">Abendgymnasium</text>
+<text top="1140" left="1026" width="182" height="12" font="124">Ernst-Thälmann-Platz 1</text>
+<text top="1155" left="1027" width="132" height="12" font="91">17489 Greifswald</text>
+<text top="134" left="1337" width="90" height="12" font="125">Frau Müller</text>
+<text top="148" left="1337" width="54" height="12" font="67">03834 -</text>
+<text top="148" left="1403" width="48" height="12" font="0">840189</text>
+<text top="206" left="1336" width="82" height="12" font="126">Herr Menge</text>
+<text top="220" left="1337" width="54" height="12" font="127">03834 -</text>
+<text top="220" left="1404" width="47" height="12" font="0">840801</text>
+<text top="279" left="1337" width="98" height="12" font="128">Herr Reinelt</text>
+<text top="293" left="1338" width="54" height="12" font="129">03834 -</text>
+<text top="293" left="1404" width="47" height="12" font="0">840698</text>
+<text top="351" left="1337" width="98" height="12" font="130">Frau Voßberg</text>
+<text top="366" left="1338" width="54" height="12" font="67">03834 -</text>
+<text top="366" left="1404" width="48" height="12" font="0">811150</text>
+<text top="424" left="1337" width="90" height="12" font="131">Herr Meinke</text>
+<text top="438" left="1338" width="114" height="12" font="132">03834 - 812059</text>
+<text top="497" left="1338" width="97" height="12" font="133">Frau Kallies</text>
+<text top="511" left="1338" width="114" height="12" font="134">03834 </span><span class="ft2">- </span><span class="ft0">814051</text>
+<text top="629" left="1338" width="123" height="12" font="137">Frau Dr </span><span class="ft6">. </span><span class="ft0">Sikora</text>
+<text top="643" left="1339" width="114" height="12" font="132">03834 - 812066</text>
+<text top="701" left="1339" width="147" height="12" font="140">Frau Dr. Scherpelz</text>
+<text top="715" left="1339" width="54" height="12" font="141">03834 -</text>
+<text top="715" left="1406" width="48" height="12" font="0">812029</text>
+<text top="774" left="1338" width="63" height="12" font="142">Herr Dr.</text>
+<text top="773" left="1414" width="72" height="12" font="0">Zschäckel</text>
+<text top="788" left="1339" width="114" height="12" font="143">03834 </span><span class="ft7">- </span><span class="ft0">500043</text>
+<text top="891" left="1339" width="74" height="12" font="144">Herr Wolf</text>
+<text top="906" left="1340" width="97" height="12" font="145">03834 </span><span class="ft7">- </span><span class="ft0">3909</text>
+<text top="1022" left="1341" width="99" height="12" font="146">Herr Skladny</text>
+<text top="1036" left="1342" width="138" height="12" font="147">03834 </span><span class="ft7">- </span><span class="ft0">500645-47</text>
+<text top="1138" left="1342" width="106" height="12" font="148">Frau Aumüller</text>
+<text top="1152" left="1342" width="113" height="12" font="149">03834 - 501640</text>
+<text top="1196" left="1343" width="46" height="12" font="151">- </span><span class="ft0">13 </span><span class="ft6">-</text>
+<text top="132" left="1585" width="23" height="12" font="0">296</text>
+<text top="131" left="1644" width="23" height="12" font="0">132</text>
+<text top="204" left="1585" width="23" height="12" font="0">250</text>
+<text top="204" left="1644" width="23" height="12" font="0">112</text>
+<text top="277" left="1586" width="22" height="12" font="0">314</text>
+<text top="276" left="1644" width="24" height="12" font="0">143</text>
+<text top="349" left="1585" width="23" height="12" font="0">278</text>
+<text top="349" left="1644" width="24" height="12" font="0">140</text>
+<text top="422" left="1586" width="23" height="12" font="0">280</text>
+<text top="421" left="1644" width="24" height="12" font="3">129</text>
+<text top="494" left="1586" width="23" height="12" font="0">207</text>
+<text top="494" left="1652" width="15" height="12" font="0">78</text>
+<text top="626" left="1586" width="23" height="12" font="0">877</text>
+<text top="626" left="1644" width="23" height="12" font="3">552</text>
+<text top="699" left="1587" width="23" height="12" font="0">901</text>
+<text top="698" left="1646" width="22" height="12" font="0">458</text>
+<text top="772" left="1579" width="31" height="12" font="0">1194</text>
+<text top="771" left="1645" width="23" height="12" font="0">712</text>
+<text top="889" left="1587" width="23" height="12" font="3">522</text>
+<text top="888" left="1646" width="23" height="12" font="3">195</text>
+<text top="1020" left="1597" width="15" height="12" font="0">81</text>
+<text top="1019" left="1655" width="15" height="12" font="3">35</text>
+<text top="1136" left="1598" width="14" height="12" font="3">72</text>
+<text top="1135" left="1656" width="14" height="12" font="0">42</text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1261" width="1785">
+	<fontspec id="152" size="11" family="Times" color="#373737"/>
+	<fontspec id="153" size="12" family="Times" color="#4e4e4e"/>
+	<fontspec id="154" size="11" family="Times" color="#4e4e4e"/>
+	<fontspec id="155" size="11" family="Times" color="#4e4e4e"/>
+	<fontspec id="156" size="10" family="Helvetica" color="#373737"/>
+	<fontspec id="157" size="11" family="Times" color="#101010"/>
+	<fontspec id="158" size="11" family="Times" color="#272727"/>
+	<fontspec id="159" size="21" family="Times" color="#101010"/>
+	<fontspec id="160" size="11" family="Times" color="#373737"/>
+	<fontspec id="161" size="11" family="Times" color="#373737"/>
+	<fontspec id="162" size="11" family="Times" color="#373737"/>
+	<fontspec id="163" size="12" family="Times" color="#4e4e4e"/>
+	<fontspec id="164" size="12" family="Times" color="#4e4e4e"/>
+	<fontspec id="165" size="11" family="Times" color="#373737"/>
+	<fontspec id="166" size="11" family="Times" color="#373737"/>
+	<fontspec id="167" size="11" family="Times" color="#373737"/>
+	<fontspec id="168" size="11" family="Times" color="#373737"/>
+	<fontspec id="169" size="11" family="Times" color="#373737"/>
+	<fontspec id="170" size="11" family="Times" color="#373737"/>
+	<fontspec id="171" size="11" family="Times" color="#373737"/>
+	<fontspec id="172" size="11" family="Times" color="#373737"/>
+	<fontspec id="173" size="11" family="Times" color="#373737"/>
+	<fontspec id="174" size="11" family="Times" color="#373737"/>
+	<fontspec id="175" size="11" family="Times" color="#373737"/>
+	<fontspec id="176" size="11" family="Times" color="#373737"/>
+	<fontspec id="177" size="11" family="Times" color="#373737"/>
+	<fontspec id="178" size="11" family="Times" color="#373737"/>
+	<fontspec id="179" size="11" family="Times" color="#373737"/>
+	<fontspec id="180" size="11" family="Times" color="#373737"/>
+	<fontspec id="181" size="11" family="Times" color="#373737"/>
+	<fontspec id="182" size="11" family="Times" color="#373737"/>
+	<fontspec id="183" size="11" family="Times" color="#373737"/>
+	<fontspec id="184" size="11" family="Times" color="#373737"/>
+	<fontspec id="185" size="11" family="Times" color="#373737"/>
+	<fontspec id="186" size="11" family="Times" color="#373737"/>
+	<fontspec id="187" size="11" family="Times" color="#373737"/>
+	<fontspec id="188" size="11" family="Times" color="#373737"/>
+	<fontspec id="189" size="11" family="Times" color="#373737"/>
+	<fontspec id="190" size="11" family="Times" color="#373737"/>
+	<fontspec id="191" size="11" family="Times" color="#373737"/>
+	<fontspec id="192" size="11" family="Times" color="#373737"/>
+	<fontspec id="193" size="11" family="Times" color="#373737"/>
+	<fontspec id="194" size="11" family="Times" color="#373737"/>
+	<fontspec id="195" size="11" family="Times" color="#373737"/>
+	<fontspec id="196" size="11" family="Times" color="#373737"/>
+	<fontspec id="197" size="11" family="Times" color="#373737"/>
+	<fontspec id="198" size="11" family="Times" color="#373737"/>
+	<fontspec id="199" size="11" family="Times" color="#373737"/>
+	<fontspec id="200" size="11" family="Times" color="#373737"/>
+	<fontspec id="201" size="11" family="Times" color="#373737"/>
+	<fontspec id="202" size="11" family="Times" color="#373737"/>
+	<fontspec id="203" size="11" family="Times" color="#373737"/>
+	<fontspec id="204" size="11" family="Times" color="#373737"/>
+	<fontspec id="205" size="11" family="Times" color="#373737"/>
+	<fontspec id="206" size="11" family="Times" color="#373737"/>
+	<fontspec id="207" size="11" family="Times" color="#373737"/>
+	<fontspec id="208" size="11" family="Times" color="#373737"/>
+	<fontspec id="209" size="11" family="Times" color="#373737"/>
+	<fontspec id="210" size="11" family="Times" color="#373737"/>
+	<fontspec id="211" size="11" family="Times" color="#373737"/>
+	<fontspec id="212" size="11" family="Times" color="#373737"/>
+	<fontspec id="213" size="11" family="Times" color="#373737"/>
+	<fontspec id="214" size="11" family="Times" color="#373737"/>
+	<fontspec id="215" size="11" family="Times" color="#373737"/>
+	<fontspec id="216" size="11" family="Times" color="#373737"/>
+	<fontspec id="217" size="11" family="Times" color="#373737"/>
+	<fontspec id="218" size="11" family="Times" color="#373737"/>
+	<fontspec id="219" size="11" family="Times" color="#373737"/>
+	<fontspec id="220" size="11" family="Times" color="#373737"/>
+	<fontspec id="221" size="11" family="Times" color="#373737"/>
+	<fontspec id="222" size="11" family="Times" color="#373737"/>
+	<fontspec id="223" size="11" family="Times" color="#373737"/>
+	<fontspec id="224" size="11" family="Times" color="#373737"/>
+	<fontspec id="225" size="11" family="Times" color="#373737"/>
+	<fontspec id="226" size="11" family="Times" color="#373737"/>
+	<fontspec id="227" size="11" family="Times" color="#373737"/>
+	<fontspec id="228" size="11" family="Times" color="#373737"/>
+	<fontspec id="229" size="11" family="Times" color="#373737"/>
+	<fontspec id="230" size="11" family="Times" color="#373737"/>
+	<fontspec id="231" size="11" family="Times" color="#373737"/>
+	<fontspec id="232" size="11" family="Times" color="#373737"/>
+	<fontspec id="233" size="11" family="Times" color="#373737"/>
+	<fontspec id="234" size="11" family="Times" color="#373737"/>
+	<fontspec id="235" size="11" family="Times" color="#373737"/>
+	<fontspec id="236" size="11" family="Times" color="#373737"/>
+	<fontspec id="237" size="11" family="Times" color="#373737"/>
+	<fontspec id="238" size="11" family="Times" color="#4e4e4e"/>
+	<fontspec id="239" size="11" family="Times" color="#373737"/>
+	<fontspec id="240" size="11" family="Times" color="#373737"/>
+	<fontspec id="241" size="11" family="Times" color="#373737"/>
+	<fontspec id="242" size="11" family="Times" color="#373737"/>
+	<fontspec id="243" size="11" family="Times" color="#373737"/>
+	<fontspec id="244" size="11" family="Times" color="#373737"/>
+	<fontspec id="245" size="11" family="Times" color="#373737"/>
+	<fontspec id="246" size="11" family="Times" color="#373737"/>
+	<fontspec id="247" size="11" family="Times" color="#373737"/>
+	<fontspec id="248" size="11" family="Times" color="#373737"/>
+	<fontspec id="249" size="11" family="Times" color="#373737"/>
+	<fontspec id="250" size="11" family="Times" color="#373737"/>
+	<fontspec id="251" size="11" family="Times" color="#373737"/>
+	<fontspec id="252" size="11" family="Times" color="#373737"/>
+	<fontspec id="253" size="11" family="Times" color="#373737"/>
+	<fontspec id="254" size="11" family="Times" color="#373737"/>
+	<fontspec id="255" size="11" family="Times" color="#373737"/>
+	<fontspec id="256" size="11" family="Times" color="#373737"/>
+	<fontspec id="257" size="11" family="Times" color="#373737"/>
+	<fontspec id="258" size="11" family="Times" color="#373737"/>
+	<fontspec id="259" size="11" family="Times" color="#373737"/>
+	<fontspec id="260" size="11" family="Times" color="#373737"/>
+	<fontspec id="261" size="11" family="Times" color="#373737"/>
+	<fontspec id="262" size="11" family="Times" color="#373737"/>
+	<fontspec id="263" size="11" family="Times" color="#373737"/>
+	<fontspec id="264" size="11" family="Times" color="#373737"/>
+	<fontspec id="265" size="11" family="Times" color="#373737"/>
+	<fontspec id="266" size="11" family="Times" color="#373737"/>
+	<fontspec id="267" size="11" family="Times" color="#373737"/>
+	<fontspec id="268" size="11" family="Times" color="#373737"/>
+	<fontspec id="269" size="11" family="Times" color="#373737"/>
+	<fontspec id="270" size="11" family="Times" color="#373737"/>
+	<fontspec id="271" size="11" family="Times" color="#373737"/>
+	<fontspec id="272" size="11" family="Times" color="#373737"/>
+	<fontspec id="273" size="11" family="Times" color="#373737"/>
+	<fontspec id="274" size="11" family="Times" color="#373737"/>
+	<fontspec id="275" size="11" family="Times" color="#373737"/>
+	<fontspec id="276" size="11" family="Times" color="#373737"/>
+	<fontspec id="277" size="11" family="Times" color="#373737"/>
+	<fontspec id="278" size="11" family="Times" color="#373737"/>
+	<fontspec id="279" size="11" family="Times" color="#373737"/>
+	<fontspec id="280" size="11" family="Times" color="#373737"/>
+	<fontspec id="281" size="11" family="Times" color="#373737"/>
+	<fontspec id="282" size="11" family="Times" color="#373737"/>
+	<fontspec id="283" size="11" family="Times" color="#373737"/>
+	<fontspec id="284" size="11" family="Times" color="#373737"/>
+	<fontspec id="285" size="11" family="Times" color="#373737"/>
+	<fontspec id="286" size="11" family="Times" color="#373737"/>
+	<fontspec id="287" size="11" family="Times" color="#373737"/>
+	<fontspec id="288" size="11" family="Times" color="#373737"/>
+	<fontspec id="289" size="11" family="Times" color="#373737"/>
+	<fontspec id="290" size="11" family="Times" color="#373737"/>
+	<fontspec id="291" size="11" family="Times" color="#373737"/>
+	<fontspec id="292" size="11" family="Times" color="#373737"/>
+	<fontspec id="293" size="11" family="Times" color="#373737"/>
+	<fontspec id="294" size="11" family="Times" color="#373737"/>
+	<fontspec id="295" size="11" family="Times" color="#000000"/>
+	<fontspec id="296" size="11" family="Times" color="#373737"/>
+	<fontspec id="297" size="11" family="Times" color="#373737"/>
+	<fontspec id="298" size="11" family="Times" color="#101010"/>
+	<fontspec id="299" size="11" family="Times" color="#373737"/>
+	<fontspec id="300" size="11" family="Times" color="#373737"/>
+	<fontspec id="301" size="11" family="Times" color="#373737"/>
+	<fontspec id="302" size="11" family="Times" color="#373737"/>
+	<fontspec id="303" size="11" family="Times" color="#373737"/>
+	<fontspec id="304" size="11" family="Times" color="#373737"/>
+	<fontspec id="305" size="11" family="Times" color="#373737"/>
+	<fontspec id="306" size="11" family="Times" color="#373737"/>
+	<fontspec id="307" size="11" family="Times" color="#101010"/>
+<text top="65" left="194" width="199" height="12" font="152">Kreis/Organisationsform/</text>
+<text top="79" left="193" width="167" height="12" font="162">Anschrift der Schule</text>
+<text top="125" left="193" width="282" height="13" font="164">Kreisfreie Stadt Neubrandenburg</text>
+<text top="173" left="193" width="92" height="12" font="154">Grundschule</text>
+<text top="232" left="194" width="223" height="12" font="167">1. Grundschule &quot;Uns Hüsung&quot;</text>
+<text top="246" left="193" width="114" height="12" font="152">Katharinenstr.</text>
+<text top="246" left="319" width="7" height="12" font="155">1</text>
+<text top="261" left="194" width="166" height="12" font="168">17033 Neubrandenburg</text>
+<text top="304" left="193" width="115" height="12" font="169">2. Grundschule</text>
+<text top="319" left="193" width="106" height="12" font="170">Stavener Str.</text>
+<text top="319" left="311" width="15" height="12" font="152">49</text>
+<text top="333" left="193" width="166" height="12" font="171">17034 Neubrandenburg</text>
+<text top="377" left="193" width="124" height="12" font="172">15. Grundschule</text>
+<text top="391" left="191" width="217" height="12" font="173">Werner-Seelenbinder-Str. </span><span class="ft155">1</text>
+<text top="405" left="193" width="166" height="12" font="174">17033 Neubrandenburg</text>
+<text top="449" left="193" width="115" height="12" font="175">6. Grundschule</text>
+<text top="464" left="192" width="175" height="12" font="177">Neustrelitzer Str. Sb</text>
+<text top="478" left="192" width="166" height="12" font="178">17033 Neubrandenburg</text>
+<text top="522" left="192" width="116" height="12" font="179">3. Grundschule</text>
+<text top="536" left="192" width="132" height="12" font="181">Stavener Str. 52</text>
+<text top="551" left="192" width="166" height="12" font="182">17034 Neubrandenburg</text>
+<text top="594" left="192" width="297" height="12" font="186">8. Grundschule &quot;An der Märchensäule&quot;</text>
+<text top="609" left="192" width="166" height="12" font="187">Juri-Gagarin-Ring 20</text>
+<text top="624" left="192" width="166" height="12" font="188">17036 Neubrandenburg</text>
+<text top="668" left="192" width="115" height="12" font="189">9. Grundschule</text>
+<text top="682" left="191" width="165" height="12" font="190">Juri-Gagarin-Ring 22</text>
+<text top="696" left="191" width="166" height="12" font="168">17036 Neubrandenburg</text>
+<text top="740" left="191" width="115" height="12" font="191">4. Grundschule</text>
+<text top="754" left="191" width="156" height="12" font="152">Bertold-Brecht-Str.</text>
+<text top="754" left="359" width="15" height="12" font="152">lb</text>
+<text top="769" left="191" width="167" height="12" font="192">17034 Neubrandenburg</text>
+<text top="812" left="191" width="124" height="12" font="193">16. Grundschule</text>
+<text top="827" left="189" width="73" height="12" font="152">Adlerstr.</text>
+<text top="827" left="275" width="15" height="12" font="152">la</text>
+<text top="841" left="191" width="166" height="12" font="194">17034 Neubrandenburg</text>
+<text top="885" left="191" width="124" height="12" font="195">10. Grundschule</text>
+<text top="900" left="190" width="157" height="12" font="196">Robert-Koch-Str. 52</text>
+<text top="914" left="191" width="166" height="12" font="174">17036 Neubrandenburg</text>
+<text top="957" left="190" width="223" height="12" font="198">7. Grundschule &quot;Lindenberg&quot;</text>
+<text top="972" left="190" width="132" height="12" font="199">Kirschenallee 24</text>
+<text top="986" left="190" width="166" height="12" font="200">17033 Neubrandenburg</text>
+<text top="1030" left="190" width="124" height="12" font="201">12. Grundschule</text>
+<text top="1044" left="190" width="133" height="12" font="203">Razgrader Str. 3</text>
+<text top="1059" left="190" width="167" height="12" font="204">17034 Neubrandenburg</text>
+<text top="1102" left="190" width="249" height="12" font="207">13. Grundschule am Reitbahnsee</text>
+<text top="1116" left="189" width="97" height="12" font="152">Hufeisenstr.</text>
+<text top="1116" left="299" width="7" height="12" font="152">1</text>
+<text top="1131" left="190" width="167" height="12" font="208">17034 Neubrandenburg</text>
+<text top="65" left="503" width="173" height="12" font="210">Name des Schulleiters</text>
+<text top="79" left="503" width="221" height="12" font="152">Ortsnetzkennzahl/Telefonnr.</text>
+<text top="246" left="510" width="107" height="12" font="211">Herr Borchert</text>
+<text top="260" left="511" width="89" height="12" font="213">0395 - 2291</text>
+<text top="319" left="510" width="89" height="12" font="214">Frau Krause</text>
+<text top="333" left="510" width="46" height="12" font="215">0395 -</text>
+<text top="333" left="568" width="55" height="12" font="152">4228705</text>
+<text top="391" left="510" width="90" height="12" font="216">Frau Balser</text>
+<text top="405" left="510" width="115" height="12" font="217">0395 - 3699936</text>
+<text top="464" left="509" width="115" height="12" font="218">Frau Beyermann</text>
+<text top="478" left="509" width="46" height="12" font="219">0395 -</text>
+<text top="478" left="568" width="31" height="12" font="152">6571</text>
+<text top="536" left="509" width="132" height="12" font="221">Frau Dr. Manthey</text>
+<text top="551" left="509" width="46" height="12" font="212">0395 -</text>
+<text top="551" left="567" width="55" height="12" font="152">4691315</text>
+<text top="609" left="508" width="91" height="12" font="222">Herr Dräger</text>
+<text top="624" left="509" width="97" height="12" font="223">0395 - 71808</text>
+<text top="682" left="508" width="90" height="12" font="224">Frau Rosema</text>
+<text top="696" left="508" width="97" height="12" font="225">0395 - 71905</text>
+<text top="754" left="508" width="90" height="12" font="226">Frau Enunert</text>
+<text top="769" left="508" width="46" height="12" font="227">0395 -</text>
+<text top="769" left="566" width="55" height="12" font="152">4229164</text>
+<text top="827" left="508" width="98" height="12" font="228">Frau Siebert</text>
+<text top="841" left="507" width="46" height="12" font="229">0395 -</text>
+<text top="841" left="566" width="55" height="12" font="152">4225434</text>
+<text top="899" left="507" width="81" height="12" font="230">Frau Arndt</text>
+<text top="914" left="507" width="105" height="12" font="231">0395 - 792297</text>
+<text top="972" left="507" width="82" height="12" font="232">Frau Romey</text>
+<text top="986" left="507" width="114" height="12" font="234">0395 - 3683774</text>
+<text top="1044" left="507" width="82" height="12" font="235">Frau Brunk</text>
+<text top="1058" left="507" width="105" height="12" font="236">0395 -.690231</text>
+<text top="1071" left="554" width="2" height="11" font="156">'</text>
+<text top="1116" left="506" width="73" height="12" font="237">Frau Mews</text>
+<text top="1130" left="507" width="46" height="12" font="219">0395 </span><span class="ft7">-</text>
+<text top="1130" left="565" width="56" height="12" font="152">4699430</text>
+<text top="1199" left="507" width="4" height="12" font="157">-</text>
+<text top="1199" left="524" width="29" height="12" font="238">14 </span><span class="ft157">-</text>
+<text top="65" left="752" width="40" height="12" font="152">Schü-</text>
+<text top="65" left="811" width="30" height="12" font="152">dar:</text>
+<text top="79" left="752" width="24" height="12" font="152">ler</text>
+<text top="79" left="810" width="48" height="12" font="152">weibl.</text>
+<text top="246" left="759" width="24" height="12" font="152">359</text>
+<text top="246" left="818" width="24" height="12" font="152">170</text>
+<text top="319" left="758" width="23" height="12" font="158">242</text>
+<text top="319" left="817" width="24" height="12" font="152">110</text>
+<text top="391" left="758" width="24" height="12" font="152">336</text>
+<text top="391" left="817" width="24" height="12" font="152">179</text>
+<text top="464" left="758" width="23" height="12" font="152">183</text>
+<text top="464" left="825" width="15" height="12" font="152">77</text>
+<text top="536" left="757" width="23" height="12" font="152">237</text>
+<text top="536" left="816" width="23" height="12" font="155">104</text>
+<text top="609" left="757" width="23" height="12" font="152">237</text>
+<text top="609" left="816" width="23" height="12" font="152">105</text>
+<text top="682" left="757" width="23" height="12" font="152">244</text>
+<text top="682" left="815" width="24" height="12" font="152">120</text>
+<text top="754" left="756" width="23" height="12" font="152">250</text>
+<text top="754" left="815" width="24" height="12" font="152">130</text>
+<text top="827" left="756" width="23" height="12" font="152">268</text>
+<text top="827" left="815" width="23" height="12" font="152">125</text>
+<text top="899" left="756" width="23" height="12" font="158">248</text>
+<text top="899" left="815" width="24" height="12" font="152">130</text>
+<text top="971" left="756" width="23" height="12" font="152">203</text>
+<text top="971" left="815" width="23" height="12" font="152">102</text>
+<text top="1044" left="755" width="24" height="12" font="152">561</text>
+<text top="1044" left="814" width="23" height="12" font="152">287</text>
+<text top="1116" left="756" width="23" height="12" font="152">646</text>
+<text top="1116" left="814" width="23" height="12" font="152">338</text>
+<text top="41" left="1026" width="681" height="21" font="159">----------------------------------------------------------------------------------</text>
+<text top="62" left="1026" width="199" height="12" font="152">Kreis/Organisationsform/</text>
+<text top="77" left="1025" width="167" height="12" font="240">Anschrift der Schule</text>
+<text top="60" left="1334" width="173" height="12" font="242">Name des Schulleiters</text>
+<text top="74" left="1334" width="221" height="12" font="152">Ortsnetzkennzahl/Telefonnr.</text>
+<text top="59" left="1583" width="40" height="12" font="152">Schü-</text>
+<text top="59" left="1641" width="30" height="12" font="152">dar:</text>
+<text top="73" left="1583" width="24" height="12" font="152">ler</text>
+<text top="73" left="1641" width="48" height="12" font="152">weibl.</text>
+<text top="85" left="1026" width="681" height="21" font="159">----------------------------------------------------------------------------------</text>
+<text top="120" left="1027" width="123" height="12" font="243">14. Grundschule</text>
+<text top="135" left="1026" width="124" height="12" font="244">Hufeisenstr. 31</text>
+<text top="149" left="1027" width="166" height="12" font="245">17034 Neubrandenburg</text>
+<text top="193" left="1026" width="116" height="12" font="246">5. Grundschule</text>
+<text top="207" left="1027" width="164" height="12" font="248">&quot;Grundschule am See&quot;</text>
+<text top="222" left="1026" width="82" height="12" font="249">Dükerweg 2</text>
+<text top="236" left="1027" width="166" height="12" font="250">17033 Neubrandenburg</text>
+<text top="280" left="1027" width="124" height="12" font="251">11. Grundschule</text>
+<text top="295" left="1027" width="113" height="12" font="152">Kopernikusstr.</text>
+<text top="295" left="1153" width="7" height="12" font="152">6</text>
+<text top="309" left="1027" width="166" height="12" font="250">17036 Neubrandenburg</text>
+<text top="352" left="1027" width="123" height="12" font="252">17. Grundschule</text>
+<text top="352" left="1161" width="72" height="13" font="253">&quot;Am Wall&quot;</text>
+<text top="367" left="1027" width="80" height="12" font="152">Krämerstr.</text>
+<text top="367" left="1119" width="15" height="12" font="152">16</text>
+<text top="381" left="1028" width="166" height="12" font="254">17033 Neubrandenburg</text>
+<text top="441" left="1026" width="84" height="12" font="160">Realschule</text>
+<text top="484" left="1028" width="231" height="12" font="257">1. Realschule &quot;Fritz Reuter&quot;</text>
+<text top="499" left="1027" width="132" height="12" font="258">Katharinenstr. </span><span class="ft155">1</text>
+<text top="513" left="1028" width="166" height="12" font="259">17033 Neubrandenburg</text>
+<text top="557" left="1028" width="107" height="12" font="260">2. Realschule</text>
+<text top="571" left="1027" width="105" height="12" font="261">Stavener Str.</text>
+<text top="571" left="1145" width="15" height="12" font="152">49</text>
+<text top="586" left="1028" width="166" height="12" font="245">17034 Neubrandenburg</text>
+<text top="630" left="1028" width="115" height="12" font="262">10. Realschule</text>
+<text top="645" left="1028" width="157" height="12" font="263">Robert-Koch-Str. 52</text>
+<text top="659" left="1028" width="166" height="12" font="250">17036 Neubrandenburg</text>
+<text top="702" left="1029" width="289" height="12" font="266">9. Realschule &quot;Heinrich Schliemann&quot;</text>
+<text top="717" left="1028" width="165" height="12" font="267">Juri-Gagarin-Ring 22</text>
+<text top="731" left="1029" width="166" height="12" font="250">17036 Neubrandenburg</text>
+<text top="776" left="1029" width="106" height="12" font="268">4. Realschule</text>
+<text top="790" left="1028" width="155" height="12" font="152">Bertold-Brecht-Str.</text>
+<text top="790" left="1196" width="15" height="12" font="152">lb</text>
+<text top="804" left="1029" width="166" height="12" font="250">17034 Neubrandenburg</text>
+<text top="847" left="1029" width="289" height="12" font="272">8. Realschule &quot;Johann Heinrich Voß&quot;</text>
+<text top="863" left="1029" width="165" height="12" font="273">Juri-Gagarin-Ring 20</text>
+<text top="877" left="1029" width="166" height="12" font="250">17036 Neubrandenburg</text>
+<text top="936" left="1028" width="242" height="12" font="276">Realschule mit Hauptschul tei1</text>
+<text top="980" left="1029" width="115" height="12" font="277">11. Realschule</text>
+<text top="994" left="1029" width="113" height="12" font="152">Kopernikusstr.</text>
+<text top="994" left="1155" width="7" height="12" font="152">4</text>
+<text top="1008" left="1030" width="166" height="12" font="250">17036 Neubrandenburg</text>
+<text top="1051" left="1030" width="106" height="12" font="278">6. Realschule</text>
+<text top="1051" left="1147" width="113" height="13" font="279">&quot;Am Gätenbach&quot;</text>
+<text top="1066" left="1029" width="175" height="12" font="281">Neustrelitzer Str. Sb</text>
+<text top="1080" left="1030" width="166" height="12" font="250">17033 Neubrandenburg</text>
+<text top="132" left="1343" width="99" height="12" font="282">Frau Lehmann</text>
+<text top="147" left="1343" width="46" height="12" font="229">0395 </span><span class="ft157">-</text>
+<text top="147" left="1402" width="56" height="12" font="152">4226476</text>
+<text top="219" left="1343" width="98" height="12" font="283">Frau Tannert</text>
+<text top="233" left="1343" width="89" height="12" font="284">0395 - 2237</text>
+<text top="292" left="1343" width="123" height="12" font="286">Herr Dr. Plesse</text>
+<text top="306" left="1344" width="105" height="12" font="287">0395 - 781341</text>
+<text top="364" left="1343" width="98" height="12" font="288">Herr Rediske</text>
+<text top="379" left="1344" width="46" height="12" font="229">0395 </span><span class="ft7">-</text>
+<text top="379" left="1402" width="39" height="12" font="152">41032</text>
+<text top="497" left="1344" width="114" height="12" font="289">Frau Lindhorst</text>
+<text top="511" left="1344" width="89" height="12" font="290">0395 - 3139</text>
+<text top="569" left="1344" width="81" height="12" font="291">Frau Mücke</text>
+<text top="583" left="1344" width="46" height="12" font="215">0395 -</text>
+<text top="583" left="1403" width="55" height="12" font="152">4228705</text>
+<text top="642" left="1344" width="99" height="12" font="292">Frau Stechow</text>
+<text top="656" left="1344" width="105" height="12" font="293">0395 - 792297</text>
+<text top="714" left="1345" width="98" height="12" font="294">Frau Stieger</text>
+<text top="729" left="1345" width="97" height="12" font="295">0395 </span><span class="ft7">- </span><span class="ft152">71905</text>
+<text top="788" left="1344" width="83" height="12" font="296">Herr Leye.</text>
+<text top="802" left="1345" width="46" height="12" font="229">0395 -</text>
+<text top="802" left="1403" width="55" height="12" font="152">4229164</text>
+<text top="860" left="1345" width="97" height="12" font="297">Frau Michael</text>
+<text top="875" left="1346" width="96" height="12" font="298">0395 </span><span class="ft157">- </span><span class="ft152">71808</text>
+<text top="992" left="1346" width="73" height="12" font="299">Frau Leye</text>
+<text top="1006" left="1346" width="97" height="12" font="225">0395 - 72905</text>
+<text top="1063" left="1346" width="115" height="12" font="300">Frau Schiffner</text>
+<text top="1078" left="1347" width="46" height="12" font="219">0395 -</text>
+<text top="1078" left="1405" width="31" height="12" font="152">6571</text>
+<text top="1123" left="1030" width="314" height="12" font="303">13. Realschule &quot;Friedrich Ludwig Jahn&quot;</text>
+<text top="1136" left="1030" width="116" height="12" font="304">Traberallee 18</text>
+<text top="1136" left="1346" width="148" height="12" font="305">Herr Frydrychowski</text>
+<text top="1151" left="1031" width="166" height="12" font="250">17034 Neubrandenburg</text>
+<text top="1151" left="1347" width="46" height="12" font="215">0395 </span><span class="ft157">-</text>
+<text top="1151" left="1405" width="56" height="12" font="152">4699297</text>
+<text top="1195" left="1348" width="4" height="12" font="157">-</text>
+<text top="1195" left="1365" width="29" height="12" font="306">15 </span><span class="ft157">-</text>
+<text top="131" left="1592" width="24" height="12" font="158">329</text>
+<text top="131" left="1650" width="24" height="12" font="155">161</text>
+<text top="218" left="1592" width="23" height="12" font="152">277</text>
+<text top="218" left="1650" width="24" height="12" font="152">137</text>
+<text top="291" left="1592" width="23" height="12" font="152">525</text>
+<text top="290" left="1650" width="23" height="12" font="152">251</text>
+<text top="363" left="1592" width="23" height="12" font="152">281</text>
+<text top="363" left="1650" width="24" height="12" font="152">127</text>
+<text top="495" left="1592" width="23" height="12" font="152">241</text>
+<text top="494" left="1650" width="23" height="12" font="152">115</text>
+<text top="567" left="1592" width="24" height="12" font="158">239</text>
+<text top="567" left="1650" width="24" height="12" font="152">111</text>
+<text top="640" left="1592" width="24" height="12" font="152">313</text>
+<text top="639" left="1651" width="23" height="12" font="152">135</text>
+<text top="713" left="1592" width="23" height="12" font="307">3 </span><span class="ft152">14</text>
+<text top="712" left="1651" width="24" height="12" font="152">146</text>
+<text top="786" left="1593" width="23" height="12" font="158">392</text>
+<text top="785" left="1651" width="24" height="12" font="152">169</text>
+<text top="858" left="1593" width="24" height="12" font="152">300</text>
+<text top="858" left="1652" width="24" height="12" font="152">161</text>
+<text top="989" left="1594" width="23" height="12" font="152">382</text>
+<text top="989" left="1652" width="23" height="12" font="152">164</text>
+<text top="1061" left="1594" width="23" height="12" font="152">358</text>
+<text top="1061" left="1653" width="24" height="12" font="152">149</text>
+<text top="1133" left="1595" width="24" height="12" font="152">547</text>
+<text top="1133" left="1653" width="23" height="12" font="152">248</text>
+</page>
+<page number="3" position="absolute" top="0" left="0" height="1279" width="1797">
+	<fontspec id="308" size="21" family="Times" color="#141414"/>
+	<fontspec id="309" size="21" family="Times" color="#3a3a3a"/>
+	<fontspec id="310" size="11" family="Times" color="#3a3a3a"/>
+	<fontspec id="311" size="11" family="Times" color="#3a3a3a"/>
+	<fontspec id="312" size="11" family="Times" color="#5a5a5a"/>
+	<fontspec id="313" size="11" family="Times" color="#141414"/>
+	<fontspec id="314" size="11" family="Times" color="#696969"/>
+	<fontspec id="315" size="9" family="Helvetica" color="#3a3a3a"/>
+	<fontspec id="316" size="13" family="Helvetica" color="#3a3a3a"/>
+	<fontspec id="317" size="16" family="Times" color="#000000"/>
+	<fontspec id="318" size="10" family="Times" color="#3a3a3a"/>
+	<fontspec id="319" size="21" family="Times" color="#141414"/>
+	<fontspec id="320" size="21" family="Times" color="#3a3a3a"/>
+	<fontspec id="321" size="11" family="Times" color="#3a3a3a"/>
+	<fontspec id="322" size="11" family="Times" color="#3a3a3a"/>
+	<fontspec id="323" size="11" family="Times" color="#3a3a3a"/>
+	<fontspec id="324" size="11" family="Times" color="#3a3a3a"/>
+	<fontspec id="325" size="21" family="Times" color="#141414"/>
+	<fontspec id="326" size="21" family="Times" color="#3a3a3a"/>
+	<fontspec id="327" size="21" family="Times" color="#141414"/>
+	<fontspec id="328" size="21" family="Times" color="#3a3a3a"/>
+	<fontspec id="329" size="21" family="Times" color="#141414"/>
+	<fontspec id="330" size="21" family="Times" color="#3a3a3a"/>
+	<fontspec id="331" size="11" family="Times" color="#3a3a3a"/>
+	<fontspec id="332" size="11" family="Times" color="#3a3a3a"/>
+	<fontspec id="333" size="11" family="Times" color="#3a3a3a"/>
+	<fontspec id="334" size="11" family="Times" color="#3a3a3a"/>
+	<fontspec id="335" size="11" family="Times" color="#3a3a3a"/>
+	<fontspec id="336" size="11" family="Times" color="#3a3a3a"/>
+	<fontspec id="337" size="11" family="Times" color="#3a3a3a"/>
+	<fontspec id="338" size="11" family="Times" color="#3a3a3a"/>
+	<fontspec id="339" size="11" family="Times" color="#3a3a3a"/>
+	<fontspec id="340" size="11" family="Times" color="#3a3a3a"/>
+	<fontspec id="341" size="11" family="Times" color="#3a3a3a"/>
+	<fontspec id="342" size="11" family="Times" color="#3a3a3a"/>
+	<fontspec id="343" size="11" family="Times" color="#3a3a3a"/>
+	<fontspec id="344" size="11" family="Times" color="#3a3a3a"/>
+	<fontspec id="345" size="11" family="Times" color="#3a3a3a"/>
+	<fontspec id="346" size="11" family="Times" color="#3a3a3a"/>
+	<fontspec id="347" size="11" family="Times" color="#3a3a3a"/>
+	<fontspec id="348" size="11" family="Times" color="#3a3a3a"/>
+	<fontspec id="349" size="11" family="Times" color="#3a3a3a"/>
+	<fontspec id="350" size="11" family="Times" color="#3a3a3a"/>
+	<fontspec id="351" size="11" family="Times" color="#3a3a3a"/>
+	<fontspec id="352" size="11" family="Times" color="#3a3a3a"/>
+	<fontspec id="353" size="11" family="Times" color="#3a3a3a"/>
+	<fontspec id="354" size="11" family="Times" color="#3a3a3a"/>
+	<fontspec id="355" size="11" family="Times" color="#3a3a3a"/>
+	<fontspec id="356" size="11" family="Times" color="#3a3a3a"/>
+	<fontspec id="357" size="11" family="Times" color="#3a3a3a"/>
+	<fontspec id="358" size="11" family="Times" color="#3a3a3a"/>
+	<fontspec id="359" size="11" family="Times" color="#3a3a3a"/>
+	<fontspec id="360" size="11" family="Times" color="#3a3a3a"/>
+	<fontspec id="361" size="11" family="Times" color="#3a3a3a"/>
+	<fontspec id="362" size="11" family="Times" color="#3a3a3a"/>
+	<fontspec id="363" size="11" family="Times" color="#3a3a3a"/>
+	<fontspec id="364" size="11" family="Times" color="#3a3a3a"/>
+	<fontspec id="365" size="11" family="Times" color="#3a3a3a"/>
+	<fontspec id="366" size="11" family="Times" color="#3a3a3a"/>
+	<fontspec id="367" size="11" family="Times" color="#3a3a3a"/>
+	<fontspec id="368" size="11" family="Times" color="#3a3a3a"/>
+	<fontspec id="369" size="11" family="Times" color="#3a3a3a"/>
+	<fontspec id="370" size="11" family="Times" color="#3a3a3a"/>
+	<fontspec id="371" size="11" family="Times" color="#3a3a3a"/>
+	<fontspec id="372" size="11" family="Times" color="#3a3a3a"/>
+	<fontspec id="373" size="11" family="Times" color="#3a3a3a"/>
+	<fontspec id="374" size="11" family="Times" color="#3a3a3a"/>
+	<fontspec id="375" size="11" family="Times" color="#3a3a3a"/>
+	<fontspec id="376" size="11" family="Times" color="#3a3a3a"/>
+	<fontspec id="377" size="11" family="Times" color="#3a3a3a"/>
+	<fontspec id="378" size="11" family="Times" color="#696969"/>
+	<fontspec id="379" size="11" family="Times" color="#3a3a3a"/>
+	<fontspec id="380" size="11" family="Times" color="#3a3a3a"/>
+	<fontspec id="381" size="11" family="Times" color="#3a3a3a"/>
+	<fontspec id="382" size="11" family="Times" color="#3a3a3a"/>
+	<fontspec id="383" size="11" family="Times" color="#3a3a3a"/>
+	<fontspec id="384" size="11" family="Times" color="#3a3a3a"/>
+	<fontspec id="385" size="11" family="Times" color="#3a3a3a"/>
+	<fontspec id="386" size="11" family="Times" color="#3a3a3a"/>
+	<fontspec id="387" size="13" family="Helvetica" color="#3a3a3a"/>
+	<fontspec id="388" size="11" family="Times" color="#3a3a3a"/>
+	<fontspec id="389" size="16" family="Times" color="#000000"/>
+	<fontspec id="390" size="11" family="Times" color="#3a3a3a"/>
+	<fontspec id="391" size="11" family="Times" color="#000000"/>
+	<fontspec id="392" size="11" family="Times" color="#3a3a3a"/>
+	<fontspec id="393" size="11" family="Times" color="#3a3a3a"/>
+	<fontspec id="394" size="11" family="Times" color="#3a3a3a"/>
+	<fontspec id="395" size="11" family="Times" color="#3a3a3a"/>
+	<fontspec id="396" size="11" family="Times" color="#3a3a3a"/>
+	<fontspec id="397" size="11" family="Times" color="#3a3a3a"/>
+	<fontspec id="398" size="11" family="Times" color="#3a3a3a"/>
+	<fontspec id="399" size="11" family="Times" color="#141414"/>
+	<fontspec id="400" size="11" family="Times" color="#3a3a3a"/>
+	<fontspec id="401" size="11" family="Times" color="#3a3a3a"/>
+	<fontspec id="402" size="11" family="Times" color="#3a3a3a"/>
+	<fontspec id="403" size="11" family="Times" color="#3a3a3a"/>
+	<fontspec id="404" size="11" family="Times" color="#3a3a3a"/>
+	<fontspec id="405" size="11" family="Times" color="#3a3a3a"/>
+	<fontspec id="406" size="11" family="Times" color="#3a3a3a"/>
+	<fontspec id="407" size="11" family="Times" color="#3a3a3a"/>
+	<fontspec id="408" size="11" family="Times" color="#3a3a3a"/>
+	<fontspec id="409" size="11" family="Times" color="#3a3a3a"/>
+	<fontspec id="410" size="11" family="Times" color="#3a3a3a"/>
+	<fontspec id="411" size="11" family="Times" color="#3a3a3a"/>
+	<fontspec id="412" size="11" family="Times" color="#3a3a3a"/>
+	<fontspec id="413" size="11" family="Times" color="#3a3a3a"/>
+	<fontspec id="414" size="11" family="Times" color="#3a3a3a"/>
+	<fontspec id="415" size="11" family="Times" color="#3a3a3a"/>
+	<fontspec id="416" size="11" family="Times" color="#3a3a3a"/>
+	<fontspec id="417" size="11" family="Times" color="#3a3a3a"/>
+	<fontspec id="418" size="11" family="Times" color="#3a3a3a"/>
+	<fontspec id="419" size="11" family="Times" color="#3a3a3a"/>
+	<fontspec id="420" size="11" family="Times" color="#3a3a3a"/>
+	<fontspec id="421" size="11" family="Times" color="#3a3a3a"/>
+	<fontspec id="422" size="11" family="Times" color="#3a3a3a"/>
+	<fontspec id="423" size="11" family="Times" color="#3a3a3a"/>
+	<fontspec id="424" size="11" family="Times" color="#3a3a3a"/>
+	<fontspec id="425" size="11" family="Times" color="#3a3a3a"/>
+	<fontspec id="426" size="11" family="Times" color="#3a3a3a"/>
+	<fontspec id="427" size="11" family="Times" color="#3a3a3a"/>
+	<fontspec id="428" size="11" family="Times" color="#3a3a3a"/>
+	<fontspec id="429" size="11" family="Times" color="#3a3a3a"/>
+	<fontspec id="430" size="11" family="Times" color="#3a3a3a"/>
+	<fontspec id="431" size="11" family="Times" color="#3a3a3a"/>
+	<fontspec id="432" size="11" family="Times" color="#3a3a3a"/>
+	<fontspec id="433" size="11" family="Times" color="#141414"/>
+	<fontspec id="434" size="11" family="Times" color="#3a3a3a"/>
+	<fontspec id="435" size="11" family="Times" color="#3a3a3a"/>
+	<fontspec id="436" size="16" family="Times" color="#000000"/>
+	<fontspec id="437" size="11" family="Times" color="#3a3a3a"/>
+	<fontspec id="438" size="11" family="Times" color="#3a3a3a"/>
+	<fontspec id="439" size="11" family="Times" color="#3a3a3a"/>
+	<fontspec id="440" size="11" family="Times" color="#3a3a3a"/>
+	<fontspec id="441" size="11" family="Times" color="#141414"/>
+	<fontspec id="442" size="11" family="Times" color="#3a3a3a"/>
+	<fontspec id="443" size="11" family="Times" color="#3a3a3a"/>
+	<fontspec id="444" size="16" family="Times" color="#000000"/>
+	<fontspec id="445" size="11" family="Times" color="#5a5a5a"/>
+	<fontspec id="446" size="11" family="Times" color="#3a3a3a"/>
+<text top="52" left="206" width="681" height="21" font="320">--------------------------------------------------------------</span><span class="ft309">-</span><span class="ft308">-------------------</text>
+<text top="67" left="205" width="199" height="12" font="310">Kreis/Organisationsform/</text>
+<text top="81" left="204" width="167" height="12" font="322">Anschrift der Schule</text>
+<text top="71" left="513" width="173" height="12" font="324">Name des Schulleiters</text>
+<text top="86" left="514" width="220" height="12" font="310">Ortsnetzkennzahl/Telefonnr.</text>
+<text top="74" left="762" width="40" height="12" font="310">Schü-</text>
+<text top="88" left="762" width="24" height="12" font="310">ler</text>
+<text top="74" left="820" width="30" height="12" font="310">dar:</text>
+<text top="89" left="820" width="47" height="12" font="310">weibl.</text>
+<text top="95" left="205" width="681" height="21" font="330">-------------</span><span class="ft309">-</span><span class="ft308">---------------------------------------------------</span><span class="ft309">-</span><span class="ft308">---------</span><span class="ft309">-</span><span class="ft308">------</text>
+<text top="125" left="205" width="290" height="12" font="333">12. Realschule &quot;Ernst-Moritz Arndt&quot;</text>
+<text top="139" left="204" width="132" height="12" font="335">Razgrader Str. 2</text>
+<text top="153" left="204" width="166" height="12" font="336">17034 Neubrandenburg</text>
+<text top="197" left="203" width="107" height="12" font="337">7. Realschule</text>
+<text top="211" left="202" width="132" height="12" font="338">Kirschenallee 24</text>
+<text top="226" left="203" width="166" height="12" font="339">17033 Neubrandenburg</text>
+<text top="269" left="202" width="107" height="12" font="340">5. Realschule</text>
+<text top="284" left="201" width="82" height="12" font="341">Dükerweg 2</text>
+<text top="299" left="201" width="166" height="12" font="342">17033 Neubrandenburg</text>
+<text top="341" left="200" width="107" height="12" font="343">3. Realschule</text>
+<text top="356" left="199" width="132" height="12" font="345">Stavener Str. 52</text>
+<text top="371" left="200" width="166" height="12" font="346">17034 Neubrandenburg</text>
+<text top="429" left="197" width="76" height="12" font="311">Gymnasium</text>
+<text top="474" left="198" width="217" height="12" font="310">Friedrich-Engels-Gymnasium</text>
+<text top="488" left="197" width="113" height="12" font="310">Kopernikusstr.</text>
+<text top="488" left="323" width="7" height="12" font="310">2</text>
+<text top="502" left="197" width="166" height="12" font="347">17036 Neubrandenburg</text>
+<text top="546" left="196" width="126" height="12" font="310">Curie-Gymnasium</text>
+<text top="560" left="196" width="106" height="12" font="348">Demminer Str.</text>
+<text top="560" left="314" width="14" height="12" font="310">42</text>
+<text top="575" left="196" width="166" height="12" font="349">17034 Neubrandenburg</text>
+<text top="619" left="195" width="190" height="12" font="352">Gymnasium &quot;Ernst Alban </span><span class="ft312">&quot;</text>
+<text top="633" left="195" width="165" height="12" font="353">Juri-Gagarin-Ring 18</text>
+<text top="648" left="195" width="166" height="12" font="339">17036 Neubrandenburg</text>
+<text top="691" left="193" width="160" height="12" font="354">Musisches Gymnasium</text>
+<text top="705" left="193" width="99" height="12" font="310">Lessingstr.1</text>
+<text top="720" left="193" width="166" height="12" font="355">17033 Neubrandenburg</text>
+<text top="764" left="192" width="257" height="12" font="358">Gymnasium in der Johannesstraße</text>
+<text top="778" left="192" width="96" height="12" font="310">Johannesstr.</text>
+<text top="778" left="301" width="15" height="12" font="310">18</text>
+<text top="792" left="192" width="166" height="12" font="359">17034 Neubrandenburg</text>
+<text top="852" left="190" width="225" height="12" font="361">Gymnasium mit Realschulteil</text>
+<text top="894" left="190" width="117" height="12" font="310">Sportgymnasium</text>
+<text top="909" left="190" width="189" height="12" font="310">Geschwister-Scholl-Str.</text>
+<text top="909" left="390" width="14" height="12" font="310">14</text>
+<text top="924" left="190" width="166" height="12" font="342">17033 Neubrandenburg</text>
+<text top="968" left="189" width="200" height="12" font="362">Integrierte Gesamtschule</text>
+<text top="1011" left="188" width="149" height="12" font="363">Gesamtschule Mitte</text>
+<text top="1025" left="188" width="80" height="12" font="310">Krämerstr.</text>
+<text top="1025" left="280" width="15" height="12" font="310">16</text>
+<text top="1040" left="188" width="166" height="12" font="364">17033 Neubrandenburg</text>
+<text top="1084" left="186" width="200" height="12" font="365">Kooperative Gesamtschule</text>
+<text top="143" left="520" width="99" height="12" font="366">Herr Willert</text>
+<text top="157" left="521" width="46" height="12" font="367">0395 -</text>
+<text top="157" left="579" width="46" height="12" font="310">690415</text>
+<text top="215" left="518" width="174" height="12" font="369">Herr Dr. Tojtschitsch</text>
+<text top="229" left="519" width="114" height="12" font="371">0395 - 3683774</text>
+<text top="288" left="517" width="91" height="12" font="372">Herr Freier</text>
+<text top="302" left="518" width="89" height="12" font="373">0395 - 2237</text>
+<text top="360" left="516" width="89" height="12" font="374">Frau Jahnke</text>
+<text top="375" left="516" width="46" height="12" font="375">0395 </span><span class="ft313">-</text>
+<text top="375" left="575" width="55" height="12" font="310">4691315</text>
+<text top="491" left="513" width="115" height="13" font="378">Herr Dr </span><span class="ft314">. </span><span class="ft310">Klemp</text>
+<text top="505" left="514" width="97" height="13" font="379">0395 - 71851</text>
+<text top="564" left="512" width="123" height="13" font="381">Herr Dr. Rätzer</text>
+<text top="578" left="512" width="45" height="12" font="382">0395 </span><span class="ft315">-</text>
+<text top="579" left="570" width="55" height="12" font="310">4226294</text>
+<text top="637" left="510" width="132" height="13" font="383">Herr Dr. Kittler</text>
+<text top="651" left="511" width="97" height="13" font="384">0395 - 72840</text>
+<text top="709" left="509" width="132" height="13" font="386">Herr Dr. Klötzer</text>
+<text top="723" left="510" width="30" height="12" font="310">0395</text>
+<text top="721" left="551" width="72" height="15" font="387">- </span><span class="ft310">5823027</text>
+<text top="781" left="508" width="98" height="12" font="388">Herr Schütze</text>
+<text top="796" left="508" width="31" height="12" font="310">0395</text>
+<text top="793" left="549" width="72" height="17" font="389">- </span><span class="ft310">4225635</text>
+<text top="913" left="505" width="115" height="13" font="390">Herr Schneider</text>
+<text top="927" left="506" width="89" height="13" font="391">0395 </span><span class="ft7">- </span><span class="ft310">2226</text>
+<text top="1030" left="504" width="149" height="12" font="392">Herr Bretschneider</text>
+<text top="1044" left="505" width="46" height="12" font="393">0395 </span><span class="ft7">-</text>
+<text top="1044" left="563" width="38" height="12" font="310">41032</text>
+<text top="1128" left="186" width="324" height="12" font="395">Kooperative Gesamtschule Neubrandenburg</text>
+<text top="1143" left="186" width="140" height="12" font="396">Razgrader Str. 22</text>
+<text top="1143" left="502" width="90" height="12" font="397">Herr Böhnke</text>
+<text top="1158" left="186" width="166" height="12" font="336">17034 Neubrandenburg</text>
+<text top="1158" left="502" width="46" height="12" font="398">0395 </span><span class="ft7">-</text>
+<text top="1158" left="561" width="47" height="12" font="310">690312</text>
+<text top="1203" left="502" width="46" height="12" font="370">- </span><span class="ft310">16 </span><span class="ft313">-</text>
+<text top="146" left="769" width="23" height="12" font="310">423</text>
+<text top="147" left="828" width="23" height="12" font="310">198</text>
+<text top="218" left="767" width="23" height="12" font="310">291</text>
+<text top="219" left="826" width="23" height="12" font="310">123</text>
+<text top="290" left="766" width="24" height="12" font="310">196</text>
+<text top="291" left="833" width="15" height="12" font="310">74</text>
+<text top="363" left="764" width="23" height="12" font="310">291</text>
+<text top="363" left="823" width="23" height="12" font="310">131</text>
+<text top="494" left="762" width="23" height="12" font="310">970</text>
+<text top="495" left="821" width="22" height="12" font="310">622</text>
+<text top="566" left="761" width="23" height="12" font="310">716</text>
+<text top="567" left="819" width="23" height="12" font="310">449</text>
+<text top="639" left="759" width="23" height="12" font="310">555</text>
+<text top="640" left="817" width="23" height="12" font="310">272</text>
+<text top="712" left="758" width="24" height="12" font="310">517</text>
+<text top="712" left="816" width="24" height="12" font="3">373</text>
+<text top="784" left="757" width="22" height="12" font="310">692</text>
+<text top="785" left="815" width="24" height="12" font="310">360</text>
+<text top="915" left="755" width="23" height="12" font="3">939</text>
+<text top="916" left="813" width="23" height="12" font="310">492</text>
+<text top="1032" left="753" width="23" height="12" font="310">461</text>
+<text top="1033" left="811" width="23" height="12" font="3">223</text>
+<text top="1148" left="751" width="23" height="12" font="310">795</text>
+<text top="1149" left="809" width="24" height="12" font="310">366</text>
+<text top="76" left="1031" width="199" height="12" font="310">Kreis/Organisationsform/</text>
+<text top="90" left="1030" width="167" height="12" font="401">Anschrift der Schule</text>
+<text top="136" left="1030" width="258" height="12" font="403">Sonderschu1e für Lernbehinderte</text>
+<text top="180" left="1030" width="140" height="12" font="310">Pestalozzi-Schule</text>
+<text top="194" left="1030" width="207" height="12" font="405">Schule für Lernbehinderte</text>
+<text top="209" left="1030" width="113" height="12" font="310">Ziegelbergstr.</text>
+<text top="209" left="1155" width="15" height="12" font="310">27</text>
+<text top="223" left="1030" width="166" height="12" font="406">17033 Neubrandenburg</text>
+<text top="282" left="1029" width="274" height="12" font="408">Sonderschu1e für Sprachbehinderte</text>
+<text top="326" left="1029" width="257" height="12" font="409">Sprachheilschule Neubrandenburg</text>
+<text top="341" left="1029" width="125" height="12" font="410">Kirschenallee 6</text>
+<text top="355" left="1029" width="166" height="12" font="411">17033 Neubrandenburg</text>
+<text top="414" left="1029" width="274" height="12" font="413">Sonderschu1e für Körperbehinderte</text>
+<text top="458" left="1028" width="273" height="12" font="415">Sonderschule für Körperbehinderte</text>
+<text top="472" left="1028" width="157" height="12" font="416">Robert-Blum-Str. 34</text>
+<text top="487" left="1028" width="166" height="12" font="406">17033 Neubrandenburg</text>
+<text top="546" left="1028" width="282" height="12" font="418">Sonderschu1e für Geistigbehinderte</text>
+<text top="590" left="1027" width="232" height="12" font="420">Schule für Geistigbehinderte</text>
+<text top="604" left="1027" width="183" height="13" font="421">Bertold-Brecht-Str. 1a</text>
+<text top="619" left="1028" width="166" height="12" font="422">17034 Neubrandenburg</text>
+<text top="678" left="1027" width="290" height="12" font="424">Sonderschu1e für Verhaltensgestörte</text>
+<text top="722" left="1027" width="190" height="12" font="426">Grundschule am Lindetal</text>
+<text top="736" left="1026" width="240" height="12" font="427">Schule für Verhaltensgestörte</text>
+<text top="751" left="1027" width="130" height="12" font="310">Ernst-Alban-Str.</text>
+<text top="751" left="1169" width="7" height="12" font="310">1</text>
+<text top="765" left="1027" width="166" height="12" font="339">17036 Neubrandenburg</text>
+<text top="825" left="1025" width="119" height="12" font="311">Abendgymnasium</text>
+<text top="868" left="1025" width="118" height="12" font="310">Abendgymnasium</text>
+<text top="882" left="1026" width="82" height="12" font="428">Poststr. 3</text>
+<text top="897" left="1026" width="166" height="12" font="429">17033 Neubrandenburg</text>
+<text top="76" left="1339" width="173" height="12" font="431">Name des Schulleiters</text>
+<text top="91" left="1339" width="221" height="12" font="310">Ortsnetzkennzahl/Telefonnr.</text>
+<text top="209" left="1346" width="90" height="12" font="432">Frau Reuter</text>
+<text top="223" left="1347" width="89" height="12" font="433">0395 </span><span class="ft313">- </span><span class="ft310">2961</text>
+<text top="340" left="1345" width="98" height="12" font="434">Frau Schulze</text>
+<text top="355" left="1346" width="46" height="12" font="398">0395 </span><span class="ft313">-</text>
+<text top="355" left="1404" width="47" height="12" font="310">699203</text>
+<text top="472" left="1344" width="73" height="12" font="435">Frau Lück</text>
+<text top="487" left="1344" width="31" height="12" font="310">0395</text>
+<text top="483" left="1385" width="48" height="17" font="436">- </span><span class="ft310">2661</text>
+<text top="604" left="1343" width="74" height="12" font="437">Frau Jahn</text>
+<text top="619" left="1343" width="46" height="12" font="438">0395 </span><span class="ft313">-</text>
+<text top="619" left="1401" width="55" height="12" font="310">4225728</text>
+<text top="751" left="1342" width="81" height="12" font="439">Frau Josek</text>
+<text top="765" left="1343" width="96" height="12" font="441">0395 </span><span class="ft313">- </span><span class="ft310">72945</text>
+<text top="882" left="1341" width="124" height="12" font="443">Herr Dr. Brasch</text>
+<text top="897" left="1342" width="31" height="12" font="310">0395</text>
+<text top="893" left="1383" width="55" height="17" font="444">- </span><span class="ft310">66145</text>
+<text top="1211" left="1341" width="4" height="12" font="313">-</text>
+<text top="1211" left="1358" width="29" height="12" font="446">1</span><span class="ft310">7 </span><span class="ft314">-</text>
+<text top="77" left="1587" width="40" height="12" font="310">Schü-</text>
+<text top="91" left="1587" width="24" height="12" font="310">ler</text>
+<text top="209" left="1595" width="23" height="12" font="310">314</text>
+<text top="341" left="1601" width="15" height="12" font="310">75</text>
+<text top="472" left="1592" width="24" height="12" font="310">179</text>
+<text top="604" left="1600" width="15" height="12" font="310">86</text>
+<text top="750" left="1598" width="15" height="12" font="310">70</text>
+<text top="882" left="1598" width="14" height="12" font="310">61</text>
+<text top="77" left="1645" width="30" height="12" font="310">dar:</text>
+<text top="91" left="1645" width="48" height="12" font="310">weibl.</text>
+<text top="209" left="1653" width="23" height="12" font="318">113</text>
+<text top="341" left="1660" width="14" height="12" font="310">28</text>
+<text top="604" left="1658" width="15" height="12" font="310">30</text>
+<text top="751" left="1665" width="7" height="12" font="313">5</text>
+<text top="882" left="1656" width="15" height="12" font="310">35</text>
+</page>
+</pdf2xml>
